@@ -213,10 +213,6 @@ Inline:
 
 Right now (09/04/2019) it is not possible to more headers using @Headers. Anyway you can use multiple @Header annotation on the same function if you need more parameters
 
-## Author
-
-Coletto Dario, dcoletto.sw@gmail.com
-
 ## License
 
 Retrofire is available under the MIT license. See the LICENSE file for more info.
