@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/RetrofireSwift.svg?style=flat)](https://cocoapods.org/pods/RetrofireSwift)
 
 ## Forked from RetrofireSwift and Why Fork it?
-This is an awesome library, however it is not compatible with Version 5 of Alamofire, and it looks like the original authors have dropped support and are no longer maintaining it. 
+This was an awesome library, however the original is not compatible with Version 5 of Alamofire, and it looks like the original authors have dropped support and are no longer maintaining it. 
 We have now migrated it and it is fully compatible, and this should be the official library for anyone needing Refit (HttpClient Generation) for Swift.
   
 [Original Library can be found here](https://github.com/coletz/RetrofireSwift).
