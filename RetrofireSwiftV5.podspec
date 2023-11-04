@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'RetrofireSwiftV5'
   s.version          = '0.0.1'
-  s.summary          = 'A type-safe HTTP client for Swift, inspired by Retrofit. Compatible with Alamofire Version 5. Forked from '
+  s.summary          = 'A type-safe HTTP client generator for Swift, inspired by Retrofit. Fully compatible with Alamofire Version 5'
 
   s.description      = <<-DESC
   Protocol-based networking (with a bit of Sourcery) used to generate statically typed API Client;
@@ -18,16 +18,14 @@ Pod::Spec.new do |s|
                        DESC
 
   s.homepage         = 'https://github.com/OpenXRP/RetrofitSwift'
+  s.author           = { 'OpenXRP' => 'secure@openxrp.cloud' }
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.source           = { :git => 'https://github.com/OpenXRP/RetrofitSwift.git', :tag => s.version.to_s }
-  s.social_media_url = 'https://twitter.com/coletzLp'
+  s.social_media_url = 'https://twitter.com/OpenXrp'
 
-  s.ios.deployment_target = '8.0'
-  s.osx.deployment_target = '10.12'
-  s.tvos.deployment_target = '10.0'
-  s.watchos.deployment_target = '3.0'
+  s.ios.deployment_target = '11.0'
 
-  s.swift_version = '4.0'
+  s.swift_version = '5.0'
 
   s.source_files = 'Sources/*.swift'
   s.resources = [ 'retrofire.sh', 'Templates/*.stencil' ]

@@ -1,8 +1,8 @@
 # RetrofireSwift
 
-[![Version](https://img.shields.io/cocoapods/v/RetrofireSwift.svg?style=flat)](https://cocoapods.org/pods/RetrofireSwift)
-[![License](https://img.shields.io/cocoapods/l/RetrofireSwift.svg?style=flat)](https://cocoapods.org/pods/RetrofireSwift)
-[![Platform](https://img.shields.io/cocoapods/p/RetrofireSwift.svg?style=flat)](https://cocoapods.org/pods/RetrofireSwift)
+[![Version](https://img.shields.io/cocoapods/v/RetrofireSwift.svg?style=flat)](https://cocoapods.org/pods/RetrofireSwiftV5)
+[![License](https://img.shields.io/cocoapods/l/RetrofireSwift.svg?style=flat)](https://cocoapods.org/pods/RetrofireSwiftV5)
+[![Platform](https://img.shields.io/cocoapods/p/RetrofireSwift.svg?style=flat)](https://cocoapods.org/pods/RetrofireSwiftV5)
 
 ## Forked from RetrofireSwift and Why Fork it?
 This was an awesome library, however the original is not compatible with Version 5 of Alamofire, and it looks like the original authors have dropped support and are no longer maintaining it. 
