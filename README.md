@@ -4,6 +4,12 @@
 [![License](https://img.shields.io/cocoapods/l/RetrofireSwift.svg?style=flat)](https://cocoapods.org/pods/RetrofireSwift)
 [![Platform](https://img.shields.io/cocoapods/p/RetrofireSwift.svg?style=flat)](https://cocoapods.org/pods/RetrofireSwift)
 
+##Forked from RetrofireSwift and Why Fork it?
+This is an awesome library, however it is not compatible with Version 5 of Alamofire, and it looks like the original authors have dropped support and are no longer maintaining it. 
+We have now migrated it and it is fully compatible, and this should be the official library for anyone needing Refit (HttpClient Generation) for Swift.
+  
+[Original Library can be found here](https://github.com/coletz/RetrofireSwift).
+
 ## What's this?
 RetrofireSwift is a library inspired by [Retrofit](https://square.github.io/retrofit/). Since Retrofit uses annotations and proxies which are not available in Swift, this library uses a slightly customized version of [Sourcery](https://github.com/krzysztofzablocki/Sourcery) (called [SourceryForRetrofire](https://github.com/dcoletto/SourceryForRetrofire)) to generate Alamofire's SessionManager extensions based on the comments/annotations you write on your protocol. Just check the `Usage` section to understand it better :)
 
