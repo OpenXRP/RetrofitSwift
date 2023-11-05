@@ -1,3 +1,8 @@
+<br/>
+<p align="center">
+    <a href="https://github.com/TheArchitect123"><img src="./swift.jpeg" align="center" width=450/></a>
+</p>
+
 # RetrofireSwift
 
 [![Version](https://img.shields.io/cocoapods/v/RetrofireSwift.svg?style=flat)](https://cocoapods.org/pods/RetrofireSwiftV5)
